@@ -1,0 +1,10 @@
+# Jupyter for interactive testing
+jupyter>=1.0
+ipykernel>=6.25
+
+# Analysis and plotting
+numpy>=1.24
+matplotlib>=3.7
+
+# Perception (used in later layers)
+opencv-python>=4.8

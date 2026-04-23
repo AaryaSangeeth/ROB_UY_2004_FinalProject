@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Experiment data (stored locally, not committed)
+experiments/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# ROS 2 (added in later layers)
+ros2_ws/build/
+ros2_ws/install/
+ros2_ws/log/
